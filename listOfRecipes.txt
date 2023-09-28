@@ -1,0 +1,20 @@
+Grilled Chicken Salad,Delicious salad with grilled chicken,30,15,10,300
+Protein-Packed Smoothie,Healthy smoothie with protein powder,25,30,5,250
+Quinoa and Black Bean Bowl,Nutritious bowl with quinoa and black beans,20,40,15,350
+Salmon with Avocado Salsa,Grilled salmon topped with avocado salsa,35,10,20,400
+Greek Yogurt Parfait,Parfait with Greek yogurt and mixed berries,15,25,8,200
+Egg White Omelette,Light and fluffy omelette made with egg whites,20,10,5,200
+Turkey and Veggie Skewers,Skewers with turkey and assorted vegetables,25,15,12,300
+Cottage Cheese Pancakes,Fluffy pancakes made with cottage cheese,18,25,10,250
+Lentil Soup,Hearty lentil soup with vegetables,15,30,5,300
+Tofu Stir-Fry,Stir-fried tofu with colorful vegetables,22,18,15,320
+Chickpea Salad,Refreshing salad with chickpeas and veggies,18,35,8,280
+Grilled Shrimp Quinoa Bowl,Quinoa bowl with grilled shrimp and veggies,28,20,15,350
+Beef and Broccoli Stir-Fry,Savory stir-fry with beef and broccoli,30,25,12,380
+Protein-Packed Egg Salad,Egg salad with a protein boost,20,15,10,250
+Peanut Butter Banana Smoothie,Smoothie with peanut butter and banana,15,30,10,280
+Stuffed Bell Peppers,Bell peppers stuffed with lean ground turkey,25,20,15,320
+Chia Seed Pudding,Healthy pudding made with chia seeds and almond milk,12,20,8,180
+Grilled Tofu Skewers,Tasty skewers with grilled tofu and veggies,18,25,10,270
+Spinach and Feta Omelette,Omelette with spinach and feta cheese,15,10,8,200
+Black Bean and Quinoa Burger,Vegetarian burger with black beans and quinoa,20,30,12,320
